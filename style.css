@@ -1,0 +1,53 @@
+html,
+body {
+    height: 100%;
+    border-left: 2px solid rgb(224, 36, 36);
+    border-right: 2px solid rgb(224, 36, 36);
+    border-top: 2px solid rgb(224, 36, 36);
+    border-bottom: 2px solid rgb(224, 36, 36);
+}
+
+#mynetwork {
+    width: 50%;
+    height: 100%;
+    border-right: 4px solid rgb(224, 36, 36);
+    border-top: 4px solid rgb(224, 36, 36);
+    border-bottom: 4px solid rgb(224, 36, 36);
+}
+
+#container2 {
+    width: 50%;
+    height: 100%;
+    border-top: 4px solid rgb(224, 36, 36);
+    border-bottom: 4px solid rgb(224, 36, 36);
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+#mynetwork2{
+    width: 100%;
+    height: 100%;
+}
+
+#container{
+    width: 100%;
+    height: 70%;
+    background-color: rgb(245, 245, 248);
+    display: flex;
+    margin: 0 auto;
+}
+
+#generate-graph{
+    margin:auto;
+    display:block;
+}
+
+
+#solve{
+    margin:auto;
+    display:block;
+}
+#navbar{
+    background-color: green;
+}
